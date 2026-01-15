@@ -2,7 +2,7 @@
 
 **Senior Java Backend Architect** | **IoT Platform Founder** | 17+ Years Enterprise Experience
 
-🚀 **Currently:** Building [IoTRI](https://github.com/nihat/iotri-public-showcase) - Industrial IoT Platform for Manufacturing (3 production deployments)  
+🚀 **Currently:** Building [IoTRI](https://github.com/nihat/iotri-public-showcase) - Industrial IoT Platform for Manufacturing 
 💼 **Senior Java Developer & Technical Architect** @ Trius Bilişim  
 🎯 **Open to:** Remote opportunities in EU/US markets | Immediate availability  
 📍 **Location:** Istanbul, Turkey (UTC+3) | **Timezone:** Flexible EU/US overlap
