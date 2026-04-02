@@ -2,7 +2,7 @@
 
 **Senior Java Backend Architect** | 17+ Years Enterprise Experience
 
-💼 ** Expert Java Developer @ Medisa    
+💼 ** Expert Java Developer @ AgeSA    
 📍 **Location:** Istanbul, Turkey (UTC+3)
 
 ---
