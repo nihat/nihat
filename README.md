@@ -104,10 +104,6 @@ Full-stack appointment scheduling application
 
 - 🔨 Modernizing legacy Java EE applications to Spring Boot 3.x microservices
 - 🚀 Building microservices showcase with event-driven architecture (Kafka/RabbitMQ)
-- ☁️ AWS cloud migration patterns and containerization strategies
-- 📚 Creating technical content on enterprise architecture best practices
-- 🌍 **Actively seeking remote opportunities in EU/US markets**
-
 ---
 
 ### 📌 Quick Facts
@@ -116,8 +112,8 @@ Full-stack appointment scheduling application
 - 💼 **17 years** enterprise Java: Java EE → Spring → Microservices evolution
 - 🏢 **Fortune 500 experience:** Insurance, Manufacturing, Fintech domains
 - 🗣️ Languages: **Turkish** (Native), **English** (Professional)
-- ⏰ Availability: **Immediate start** | Contract or Full-time
-- 💰 Competitive rates for remote work | Senior architect, mid-level pricing
+- ⏰ Availability: **Ask for** | Contract 
+- 💰 Competitive rates for remote work | Senior architect
 - 🌐 Timezone flexible: EU (GMT+1/+2) or US East Coast overlap available
 - 🎯 **Key strength:** Legacy modernization + Production-grade systems
 
@@ -129,5 +125,4 @@ Full-stack appointment scheduling application
 
 ---
 
-**📩 Open to opportunities:** nihat.kiziltoprak@gmail.com  
 **🔗 Portfolio:** https://nkiziltoprak.com 
