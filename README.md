@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nihat Kızıltoprak
+# 👋 Hi, I'm Nihat 
 
 **Senior Java Backend Architect** | 17+ Years Enterprise Experience
 
-💼 ** Expert Java Developer @ AgeSA    
+💼 ** Principal Developer @ AgeSA    
 📍 **Location:** Istanbul, Turkey (UTC+3)
 
 ---
@@ -68,8 +68,8 @@ Full-stack appointment scheduling application
 
 ## 💼 Professional Experience Highlights
 
-**🔹 17 Years in Enterprise Java Development**
-- Expert in **Java EE (EJB, JPA, JSF)** and modern **Spring ecosystem**
+**🔹 18+ Years in Enterprise Java Development**
+- Expert in **Java , Spring , Spring Boot , Java EE (EJB, JPA, JSF)** 
 - Team Lead & Senior Developer @ Insurance Industry (Anadolu Sigorta, ERGO)
 - Built systems processing **millions of transactions daily** on **Oracle & PostgreSQL**
 - Deep expertise in **legacy modernization** and **performance optimization**
@@ -100,20 +100,13 @@ Full-stack appointment scheduling application
 
 ---
 
-## 💡 Currently Working On
-
-- 🔨 Modernizing legacy Java EE applications to Spring Boot 3.x microservices
-- 🚀 Building microservices showcase with event-driven architecture (Kafka/RabbitMQ)
----
-
 ### 📌 Quick Facts
 
 - 🎓 BSc in Computer Engineering - Istanbul University
-- 💼 **17 years** enterprise Java: Java EE → Spring → Microservices evolution
+- 💼 **18+ years** enterprise Java: Java EE → Spring → Microservices evolution
 - 🏢 **Fortune 500 experience:** Insurance, Manufacturing, Fintech domains
 - 🗣️ Languages: **Turkish** (Native), **English** (Professional)
 - ⏰ Availability: **Ask for** | Contract 
-- 💰 Competitive rates for remote work | Senior architect
 - 🌐 Timezone flexible: EU (GMT+1/+2) or US East Coast overlap available
 - 🎯 **Key strength:** Legacy modernization + Production-grade systems
 
