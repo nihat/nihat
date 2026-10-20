@@ -112,7 +112,7 @@ Full-stack appointment scheduling application
 
 ---
 
-> *"17 years transforming enterprise systems: From Java EE monoliths to cloud-native microservices.  
+> *"Over 18 years transforming enterprise systems: From Java EE monoliths to cloud-native microservices.  
 > Battle-tested production experience across insurance, manufacturing, and fintech domains.  
 > Senior architect expertise, competitive pricing, zero overhead."*
 
