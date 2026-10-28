@@ -47,22 +47,33 @@
 
 ## 🎯 Featured Projects
 
-### 🏭 [IoTRI Platform](https://github.com/nihat/iotri-public-showcase) - Industrial IoT SaaS
+### 🏭 [IoTRI Platform](https://iotri.com.tr - Industrial IoT SaaS
 **Founder & Technical Architect** | Production system serving 3 manufacturing facilities
-- **Stack:** Java 21, Spring Boot 3.x, PostgreSQL, AWS
-- **Scale:** Real-time monitoring for production lines, quality control, and asset tracking
-- **Impact:** 99.9% uptime, processing thousands of sensor events per minute
+
+IoTRI is a platform that brings IoT device management and data flow together in a simple interface. With real-time monitoring and operational visibility, teams can instantly track field conditions. Its scalable architecture adapts to different device types and growing data volumes. The user-focused interface helps technical and operations teams collaborate more efficiently.
 
 
-### 🍳 [Recipes API](https://github.com/nihat/recipes-api) - RESTful Service Template
-Modern Spring Boot REST API with best practices
-- **Stack:** Spring Boot, PostgreSQL, Swagger UI
-- **Highlights:** Clean architecture, comprehensive API documentation
+### 🍳 [Policify ](https://policify.innovite.tech) - Broker and Agency Insurance Platform
 
-### 📅 [Ajandam Online](https://github.com/nihat/ajandam-online) - Appointment Management System
-Full-stack appointment scheduling application
-- **Stack:** Spring Boot, ReactJS, TypeScript, PostgreSQL
-- **Focus:** Scalable architecture for multi-tenant SaaS
+Policify is an insurance solution built for brokers and agencies. It helps teams manage operations from quotation to policy issuance in a faster and more organized way. Process-oriented screens reduce manual workload and improve team productivity. Its modular structure makes it adaptable to different business models.
+
+### 📅 [Insurance Platform](https://insurance.innovite.tech) - Elemantary Insurance Platform 
+
+Insurance Portal is an end-to-end non-life insurance platform. It enables operations, quotations, policy management, and related workflows to be handled from a single center. With a role-based structure, different teams can collaborate in a coordinated way on the same platform. It provides a sustainable and traceable insurance operations infrastructure at enterprise scale.
+
+### 📅 [Shipsak ](https://shipsak.innovite.tech) - Express Cargo & Courier Platform
+
+Shipsak is a mobile + web ecosystem developed for same-day express cargo and courier management. The courier app and the business app are designed separately to provide tailored experiences for each user type. All operational steps can be tracked in real time, from order creation to final delivery. This helps businesses manage delivery operations faster, with better control and efficiency.
+
+
+### 📅 [Termindo](https://termindo.com) - Appointment Platform
+
+Termindo is an appointment management application built for businesses. With SMS, email, and push notification support, it automates appointment communication. Businesses can manage customer flow more effectively while reducing missed appointments. It improves both operational efficiency and customer experience.
+
+
+### 📅 [Finasist](https://finasist.app) - Finance & Budget Management 
+Finasist is mainly focused on budget management and financial tracking. It provides a clearer financial overview by enabling consistent monitoring of income and expense flows. Its clean interface makes daily financial operations more practical. It supports more data-driven decision-making processes.
+
 
 ---
 
